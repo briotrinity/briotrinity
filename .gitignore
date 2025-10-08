@@ -986,4 +986,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,django,dotnetcore,react,reactnative,csharp,pythongit add --all
+# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,visualstudiocode,django,dotnetcore,react,reactnative,csharp,python
