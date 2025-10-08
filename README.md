@@ -4,7 +4,7 @@ I'm new to the git world, but I do **love** to learn.
 
 I am dedicated to learning web and software development fundamentals and spend my time either *reading*, *researching*, or *exploring* video editing software and creative applications.
 
- - I enjoy deep dive researches into various topics
+ - enjoy deep dive researches into various topics
  - have self-taught HTML and CSS skills
  - expanding my knowledge in the world of AI and robotics
 
