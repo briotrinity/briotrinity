@@ -9,3 +9,18 @@ I am dedicated to learning web and software development fundamentals and spend m
  - expanding my knowledge in the world of AI and robotics
 
 > I believe intelligence is *sacred* and technology should be crafted with *intention*.
+
+#### *What's included in the templates:*
+
+| **.gitignore**    | **.gitattributes**   
+| :-------------------: |:-------------:| 
+|    Windows    | Common |
+|    macOS     |  Java  |  
+|    Linux  |   PowerShell  |  
+|   Python  |   Python  |   
+|   CSharp   |   CSharp  |  
+|   Django  |   Web  | 
+|  DotnetCore  |   Markdown  |  
+|  react   | | 
+|  ReactNative |   | 
+|   VisualStudioCode |  | |
